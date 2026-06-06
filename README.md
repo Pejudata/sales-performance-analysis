@@ -30,7 +30,7 @@ The dashboard provides a centralized interface for monitoring revenue performanc
 ## ⚙ Technical Architecture
 
 * **Platform:** Microsoft Excel
-* **Data Layer:** Utilizes dynamic relational lookup models (`XLOOKUP` / `INDEX-MATCH`) or **Power Query** to connect transactional order logs with product and customer dimensions.
+* **Data Layer:** Utilizes dynamic relational lookup models (`XLOOKUP` / `INDEX-MATCH`) to connect transactional order logs with product and customer dimensions.
 * **Aggregation Engine:** Powered by background **Pivot Tables** tied directly to the dashboard canvas via localized Slicer Connections.
 * **UI Design:** Implements a cohesive dark purple corporate color palette with clean typography and high-contrast charts to maximize readability.
 
