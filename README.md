@@ -8,6 +8,8 @@ An interactive Excel analytics application designed to track, analyze, and visua
 
 The dashboard provides a centralized interface for monitoring revenue performance from 2019 to 2022. By integrating dynamic cross-filtering, stakeholders can isolate product performance by roast category, packaging size, and customer loyalty enrollment.
 
+<img width="1109" height="547" alt="Coffee Sales Dashboard Overview" src="https://github.com/user-attachments/assets/5fcb4b98-a923-4188-958d-2f869c9a7670" />
+
 ---
 
 ## 🛠 Features & Visual Components
